@@ -1,0 +1,6 @@
+git 명령어
+
+git clone ~~~
+git add .
+git commit -m "~~~"
+git push origin ~~~
