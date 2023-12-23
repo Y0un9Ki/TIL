@@ -1,6 +1,6 @@
 git 명령어
 
-git clone ~~~
-git add .
-git commit -m "~~~"
-git push origin ~~~
+git clone ~~~ (git hub에서 주소를 복사해올때 쓰는 명령어)
+git add . (우리가 수정하거나 만든 파일을 git hub에 올릴때 쓰는 명령어)
+git commit -m "~~~" (우리가 수정했거나 만든파일에 대한 설명을 적어주는 명령어)
+git push origin ~~~ (우리가 원하는 공간에 파일을 올려주는 명령어)
